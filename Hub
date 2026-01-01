@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/devshawy-hub/AxeusHub/refs/heads/main/SurviveTheElevator"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/devshawy-hub/AxeusHub/refs/heads/main/OneShot"))()
